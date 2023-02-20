@@ -1,6 +1,6 @@
 # yt_downloader
 
-Tool made my me in Python to download any YT videos with the highest resolution. Choose any path you wanna locate where all ur downloads will store. 
+Tool made my me in Python to download any YT videos with the highest resolution. Choose any path you wanna locate where all ur downloads will be stored. 
 
 To clone this repo in your local, make sure you follow the following commands. 
 
