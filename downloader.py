@@ -16,7 +16,7 @@ def downloader(link: str) -> None:
         # mp4_dir = path + yt.title + ".mp4"
 
         print("Downloading...")
-        ys.download(r'/home/yayo/Documentos/Programación/downloaded_videos')
+        ys.download(r'your_path_here')
         print("Download completed!!")
     except Exception as e:
         print("Error: ", e)
