@@ -6,7 +6,7 @@ More upcoming changes on v1.0 that'll be released soon.
 To clone this repo in your local, make sure you follow the following commands. 
 
 ```
-$ git clone --depth=1 https://github.com/Its-Yayo/yt_downloader.git
+$ git clone --depth=1 https://github.com/Its-Yayo/DownSetter.git
 $ cd yt_downloader
 ```
 
