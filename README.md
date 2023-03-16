@@ -1,6 +1,7 @@
-# yt_downloader
+# DownSetter
 
-Tool made my me in Python to download any YT videos with the highest resolution. Choose any path you wanna locate where all ur downloads will be stored. 
+DownSetter is an automated tool to download any MP3 / MP4 Files. Doesn´t need internet to run, just your path where your file will be stored. 
+More upcoming changes on v1.0 that'll be released soon. 
 
 To clone this repo in your local, make sure you follow the following commands. 
 
